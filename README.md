@@ -1,3 +1,3 @@
-# Titanic
-# Completed predictive analyses that predicts Survival rate with proven 75% accuracy. Code creates a model from the train.csv file to predict the Survivability of passengers in the test.csv file. 
+# Titanic 78.5% correct
+# The models in Titanic_TJ.R and Titanic_caret.R use data from a train table to predict the survival of the passengers in a test table. In Titanic_TJ.R, the accuracy of the model was 74% using linear regression. In Titanic_caret.R the library "caret" allowed for more accuracte models by knn and also linear regression.
 # More alterations will be made to improve the accuracy of the model
